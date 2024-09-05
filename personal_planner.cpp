@@ -1,4 +1,5 @@
 //christopher p mays jr
+// paul 
 
 #include <iostream>
 #include <ctime> 
