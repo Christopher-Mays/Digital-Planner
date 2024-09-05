@@ -1,6 +1,6 @@
 //christopher p mays jr
 // paul nix iii
-// Ty Harvey
+// ty harvey
 
 #include <iostream>
 #include <ctime> 
